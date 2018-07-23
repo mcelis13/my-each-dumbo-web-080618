@@ -12,8 +12,3 @@ def my_each(array)
     return "A block was not passed."
   end
 end
-
-#the block being passed starts with the do word
-#my_each(array) do |index|
-#  index
-#end
